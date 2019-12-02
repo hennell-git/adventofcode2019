@@ -1,5 +1,5 @@
 
-inputfile = open('testinput.txt').read()
+inputfile = open('input.txt').read()
 
 data = list(map(int, inputfile.split(",")))
 
